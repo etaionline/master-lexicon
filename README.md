@@ -1,2 +1,2 @@
-# master-lexicon-
+# master-lexicon
 master-lexicon - Andraia
